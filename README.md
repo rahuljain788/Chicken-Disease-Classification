@@ -2,6 +2,9 @@
 
 ![img.png](img.png)
 
+Step 0: Prepare config.yaml e.g. below 
+![img_7.png](img_7.png)
+
 Notebook Research 
 Step 1: Create Entity  Define a class which contains the configuration objects, this class will be of type @dataclass. 
 Save these entities inside config_entity.py under entities folder. 
